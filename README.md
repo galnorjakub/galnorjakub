@@ -34,9 +34,9 @@ I am a first-year cybersecurity student with profound interesting in learning ne
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
 
+<div>
+Currently working on Comptia A+ Certification
 </div>
 
 ## Projects
