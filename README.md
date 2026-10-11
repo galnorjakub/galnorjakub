@@ -40,5 +40,5 @@ Currently working on Comptia A+ Certification
 </div>
 
 ## Projects
-https://github.com/galnorjakub/linux-security-check
-https://github.com/galnorjakub/suspicious_log_detector/tree/main
+- https://github.com/galnorjakub/linux-security-check
+- https://github.com/galnorjakub/suspicious_log_detector/tree/main
